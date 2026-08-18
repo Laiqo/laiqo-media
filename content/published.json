@@ -1,0 +1,664 @@
+{
+  "settings": {
+    "defaultLang": "fr",
+    "marqueeAnimated": true,
+    "domain": "laiqo.fr",
+    "adminUrl": "laiqo.fr/admin"
+  },
+  "nav": {
+    "about": {
+      "fr": "À propos",
+      "en": "About"
+    },
+    "services": {
+      "fr": "Services",
+      "en": "Services"
+    },
+    "projects": {
+      "fr": "Projets",
+      "en": "Work"
+    },
+    "process": {
+      "fr": "Process",
+      "en": "Process"
+    },
+    "contact": {
+      "fr": "Contact",
+      "en": "Contact"
+    },
+    "cta": {
+      "fr": "Discutons",
+      "en": "Let's talk"
+    }
+  },
+  "hero": {
+    "badges": [
+      {
+        "fr": "Cadreur",
+        "en": "Camera operator"
+      },
+      {
+        "fr": "Monteur",
+        "en": "Editor"
+      },
+      {
+        "fr": "Producteur",
+        "en": "Producer"
+      }
+    ],
+    "title": {
+      "fr": "Des images qui racontent votre histoire",
+      "en": "Images that tell your story"
+    },
+    "tagline": {
+      "fr": "Je filme, je monte et je produis des vidéos soignées : captations live, films de marque et formats courts qui donnent envie de regarder jusqu'au bout.",
+      "en": "I shoot, edit and produce polished videos: live event coverage, brand films and short-form content people actually watch to the end."
+    },
+    "ctaPrimary": {
+      "fr": "Voir mes projets",
+      "en": "See my work"
+    },
+    "ctaSecondary": {
+      "fr": "Me contacter",
+      "en": "Get in touch"
+    },
+    "image": "https://laiqo.github.io/laiqo-media/media/6cff2da7496c739449d1f2b2.webp"
+  },
+  "brands": [
+    {
+      "id": "b1",
+      "name": "Teisseire",
+      "domain": "teisseire.com",
+      "logo": null
+    },
+    {
+      "id": "b2",
+      "name": "Matmut",
+      "domain": "matmut.fr",
+      "logo": null
+    },
+    {
+      "id": "b3",
+      "name": "La Poste Mobile",
+      "domain": "lapostemobile.fr",
+      "logo": null
+    },
+    {
+      "id": "b4",
+      "name": "XPENG",
+      "domain": "xpeng.com",
+      "logo": null
+    },
+    {
+      "id": "b5",
+      "name": "Coca-Cola",
+      "domain": "coca-cola.com",
+      "logo": null
+    },
+    {
+      "id": "b6",
+      "name": "Netflix",
+      "domain": "netflix.com",
+      "logo": null
+    },
+    {
+      "id": "b7",
+      "name": "Alltricks",
+      "domain": "alltricks.fr",
+      "logo": null
+    },
+    {
+      "id": "b8",
+      "name": "Etat Pur",
+      "domain": "etatpur.com",
+      "logo": null
+    },
+    {
+      "id": "b9",
+      "name": "KPMG",
+      "domain": "",
+      "logo": null
+    },
+    {
+      "id": "b10",
+      "name": "Mixa",
+      "domain": "mixa.fr",
+      "logo": null
+    },
+    {
+      "id": "b11",
+      "name": "XTB",
+      "domain": "xtb.com",
+      "logo": null
+    }
+  ],
+  "about": {
+    "kicker": {
+      "fr": "À propos",
+      "en": "About"
+    },
+    "title": {
+      "fr": "Des vidéos soignées, des images fortes & des montages qui font mouche",
+      "en": "Polished videos, striking images & edits that hit the mark"
+    },
+    "words": [
+      {
+        "fr": "soignées",
+        "en": "videos"
+      },
+      {
+        "fr": "fortes",
+        "en": "images"
+      },
+      {
+        "fr": "mouche",
+        "en": "mark"
+      }
+    ],
+    "button": {
+      "fr": "Découvrir mes services",
+      "en": "Explore my services"
+    }
+  },
+  "services": [
+    {
+      "id": "cadrage",
+      "title": {
+        "fr": "Cadrage",
+        "en": "Filming"
+      },
+      "image": "https://laiqo.github.io/laiqo-media/media/93a918221a9b37d9d4f94cc5.mp4",
+      "lines": [
+        {
+          "id": "cadrage-1",
+          "label": {
+            "fr": "Captation multi-caméras",
+            "en": "Multi-camera coverage"
+          },
+          "explanation": {
+            "fr": "Plusieurs caméras synchronisées pour ne rien rater et varier les angles au montage.",
+            "en": "Several synced cameras so nothing is missed and every angle is covered."
+          }
+        },
+        {
+          "id": "cadrage-2",
+          "label": {
+            "fr": "Interviews & plateaux",
+            "en": "Interviews & studio sets"
+          },
+          "explanation": {
+            "fr": "Installation lumière et son, cadre stable et mise à l'aise des intervenants.",
+            "en": "Lighting and sound setup, steady framing and relaxed interviewees."
+          }
+        },
+        {
+          "id": "cadrage-3",
+          "label": {
+            "fr": "Événementiel & concerts",
+            "en": "Events & concerts"
+          },
+          "explanation": {
+            "fr": "Je me fonds dans l'événement pour capter l'ambiance sans jamais gêner.",
+            "en": "I blend into the event to capture the vibe without ever being in the way."
+          }
+        },
+        {
+          "id": "cadrage-4",
+          "label": {
+            "fr": "Images d'illustration",
+            "en": "B-roll & illustration footage"
+          },
+          "explanation": {
+            "fr": "Plans d'appui (b-roll) qui enrichissent le montage et racontent le contexte.",
+            "en": "Supporting shots that enrich the edit and tell the context."
+          }
+        }
+      ]
+    },
+    {
+      "id": "montage",
+      "title": {
+        "fr": "Montage",
+        "en": "Editing"
+      },
+      "image": "https://laiqo.github.io/laiqo-media/media/8288fb5fe0fc28ba3d4f0292.webp",
+      "lines": [
+        {
+          "id": "montage-1",
+          "label": {
+            "fr": "Montage narratif & rythmé",
+            "en": "Narrative, well-paced editing"
+          },
+          "explanation": {
+            "fr": "Une structure claire et un rythme qui tiennent le spectateur jusqu'à la fin.",
+            "en": "A clear structure and a pace that keeps viewers watching to the end."
+          }
+        },
+        {
+          "id": "montage-2",
+          "label": {
+            "fr": "Étalonnage",
+            "en": "Color grading"
+          },
+          "explanation": {
+            "fr": "Harmonisation des couleurs et look sur mesure pour une image cohérente.",
+            "en": "Color matching and a tailored look for a consistent image."
+          }
+        },
+        {
+          "id": "montage-3",
+          "label": {
+            "fr": "Sound design & mixage",
+            "en": "Sound design & mixing"
+          },
+          "explanation": {
+            "fr": "Voix claires, musique équilibrée et effets sonores qui donnent du relief.",
+            "en": "Clean voices, balanced music and sound effects that add depth."
+          }
+        },
+        {
+          "id": "montage-4",
+          "label": {
+            "fr": "Habillage & sous-titres",
+            "en": "Motion graphics & subtitles"
+          },
+          "explanation": {
+            "fr": "Titres, logos animés et sous-titres propres, prêts pour les réseaux.",
+            "en": "Titles, animated logos and clean subtitles, ready for social."
+          }
+        }
+      ]
+    },
+    {
+      "id": "production",
+      "title": {
+        "fr": "Production",
+        "en": "Production"
+      },
+      "image": "https://laiqo.github.io/laiqo-media/media/b6234e97255358cb3e6f2dd4.webp",
+      "lines": [
+        {
+          "id": "production-1",
+          "label": {
+            "fr": "Conception & script",
+            "en": "Concept & scripting"
+          },
+          "explanation": {
+            "fr": "On part de votre idée pour écrire un déroulé et un message efficaces.",
+            "en": "We start from your idea and write an effective outline and message."
+          }
+        },
+        {
+          "id": "production-2",
+          "label": {
+            "fr": "Organisation de tournage",
+            "en": "Shoot planning"
+          },
+          "explanation": {
+            "fr": "Planning, lieux, autorisations : tout est calé avant le jour J.",
+            "en": "Schedule, locations, permits: everything locked before the day."
+          }
+        },
+        {
+          "id": "production-3",
+          "label": {
+            "fr": "Coordination d'équipe",
+            "en": "Crew coordination"
+          },
+          "explanation": {
+            "fr": "Je réunis et dirige les bonnes personnes selon la taille du projet.",
+            "en": "I bring together and direct the right people for the project size."
+          }
+        },
+        {
+          "id": "production-4",
+          "label": {
+            "fr": "Livraison multi-formats",
+            "en": "Multi-format delivery"
+          },
+          "explanation": {
+            "fr": "Fichiers optimisés pour chaque plateforme : YouTube, réseaux, écran géant.",
+            "en": "Files optimized for every platform: YouTube, social, big screen."
+          }
+        }
+      ]
+    }
+  ],
+  "projects": {
+    "kicker": {
+      "fr": "Portfolio",
+      "en": "Portfolio"
+    },
+    "title": {
+      "fr": "Projets récents",
+      "en": "Recent work"
+    },
+    "captations": {
+      "label": {
+        "fr": "Captations",
+        "en": "Live coverage"
+      },
+      "items": [
+        {
+          "id": "ba80b630",
+          "title": "Publicité Teisseire",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/92bd7d238297dedceac0410a.webp",
+          "videoFile": "https://laiqo.github.io/laiqo-media/media/aebe852bab823e553463b52e.mp4"
+        },
+        {
+          "id": "d8343c98",
+          "title": "On a fouillé LONDRES au detecteur de métaux (à la recherche de trésors)",
+          "video": " https://youtu.be/V21HaOU7_Pw?si=j5-Hs-nefKfk_Nv7",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/dfe8d63407e27ef69f742b04.webp",
+          "thumbFromYouTube": "V21HaOU7_Pw"
+        },
+        {
+          "id": "29c9d2f9",
+          "title": "J’ai fouillé une plage GÉANTE au détecteur de Métaux ! (on a trouvé des trésors)",
+          "video": "https://youtu.be/sN8ugkKp_xQ?si=eWY91ky6PLVwFVml",
+          "year": "2024",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/723a9f107269bc0383eeae4e.webp",
+          "thumbFromYouTube": "sN8ugkKp_xQ"
+        },
+        {
+          "id": "62008285",
+          "title": "XPENG P7",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/e7ed260eb8080b1521a5ccae.webp",
+          "videoFile": "https://anvc7pvgiefkocqx.public.blob.vercel-storage.com/media/xpeng-p7-master-16x9-NvCivJ4SGnD8SZXmTkTiNqGqb9A4O7.mp4"
+        },
+        {
+          "id": "71c098fc",
+          "title": "On a pêché à l'aimant à Venise pendant 24h non-stop ! (on est les premiers)",
+          "video": "https://youtu.be/Fr3osuJCMHU?si=ypq_HJN8sjM1BxPb",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/a5a3c640338e1f1ebf3ec188.webp",
+          "thumbFromYouTube": "Fr3osuJCMHU"
+        },
+        {
+          "id": "6e1e8380",
+          "title": "RETOUR SUR LA JOURNÉE DES 10 ANS DETAILING SHINE !",
+          "video": "https://youtu.be/7Xp9Did_ykQ?si=94L0XYjoHjjK98eq",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/9ac7c9752042559e02865162.webp",
+          "thumbFromYouTube": "7Xp9Did_ykQ"
+        }
+      ]
+    },
+    "montage": {
+      "label": {
+        "fr": "Montage vidéo",
+        "en": "Video editing"
+      },
+      "items": [
+        {
+          "id": "m1",
+          "title": "🚨 13–18 ans : Comment INVESTIR Jeune et Avoir 10 Ans d’Avance sur les Autres !",
+          "video": "https://youtu.be/efkVzgyv6tU",
+          "year": "2025",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/e3ca396ab625a100f4659858.webp",
+          "thumbFromYouTube": "efkVzgyv6tU"
+        },
+        {
+          "id": "m2",
+          "title": "Il a habillé les stars du hip-hop. Aujourd'hui il est l’anti fast fashion",
+          "video": "https://youtu.be/FT887udrXjk?si=Y7Wh7KgCT5Ea2BJc",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/976f1f573f2abf20828e1d8b.webp",
+          "thumbFromYouTube": "FT887udrXjk"
+        },
+        {
+          "id": "m3",
+          "title": "On a joué à Chat à travers tous les Etats-Unis ! (48h d’angoisse)",
+          "video": "https://youtu.be/WTMiPwbwU3A?si=jrSAqhvG3EstyBQZ",
+          "year": "2024",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/c8640c3094d95edc610d5db6.webp",
+          "thumbFromYouTube": "WTMiPwbwU3A"
+        },
+        {
+          "id": "m4",
+          "title": " On a joué à Chat à travers tout le Maroc (c'était chaud)",
+          "video": "https://youtu.be/ZE_BJ8cmCaw",
+          "year": "2025",
+          "thumb": "https://i.ytimg.com/vi/ZE_BJ8cmCaw/maxresdefault.jpg"
+        },
+        {
+          "id": "m5",
+          "title": "Je Démasque les Châteaux les Plus Hantés de France : FAKE ou RÉALITÉ ?",
+          "video": "https://youtu.be/XXt5sxYgtZA?si=tmmGfeUdpbp-FGA-",
+          "year": "2024",
+          "thumb": "https://i.ytimg.com/vi/XXt5sxYgtZA/maxresdefault.jpg"
+        },
+        {
+          "id": "m6",
+          "title": "CACHE CACHE dans un LABYRINTHE",
+          "video": "https://youtu.be/PXg9Fx1pS1Y?si=d0vnPJjkrgyJ3oc7",
+          "year": "2024",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/e27d39bee5375f5c2405878f.webp",
+          "thumbFromYouTube": "PXg9Fx1pS1Y"
+        }
+      ]
+    },
+    "shorts": {
+      "label": {
+        "fr": "Shorts",
+        "en": "Shorts"
+      },
+      "items": [
+        {
+          "id": "s1",
+          "title": "Publicité Teisseire",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/cf4490e847e0151247ae00c9.webp",
+          "videoFile": "https://laiqo.github.io/laiqo-media/media/035a9bced2148b408e7d015a.mp4"
+        },
+        {
+          "id": "s2",
+          "title": "Bouygues Telecom X Maison Sarah Lavoine",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/dac454bdc7d7736497db3284.webp",
+          "videoFile": "https://anvc7pvgiefkocqx.public.blob.vercel-storage.com/media/a-la-renverse-v1-AkbebxkJkfk3WTygjxTWWEBYePXQPw.mp4"
+        },
+        {
+          "id": "s3",
+          "title": "AllTricks",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/a37a02a09a3234f84e7afd40.webp",
+          "videoFile": "https://laiqo.github.io/laiqo-media/media/1291f6b858a208309bd3fad1.mp4"
+        },
+        {
+          "id": "s4",
+          "title": "Publicité Coca-Cola",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/466b71927063bb722156d63c.webp",
+          "videoFile": "https://laiqo.github.io/laiqo-media/media/407be771a6d67a406f091044.mp4"
+        },
+        {
+          "id": "s5",
+          "title": "Publicité Teisseire",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/40ca8f81d66e45b620375e95.webp",
+          "videoFile": "https://laiqo.github.io/laiqo-media/media/4034ac069d8f75e9fcb67d3e.mp4"
+        },
+        {
+          "id": "s6",
+          "title": "Matmut",
+          "video": "",
+          "year": "2026",
+          "thumb": "https://laiqo.github.io/laiqo-media/media/8300831a97ff57603b40925f.webp",
+          "videoFile": "https://laiqo.github.io/laiqo-media/media/50a71912fbaa1ac072bb807c.mp4"
+        }
+      ]
+    }
+  },
+  "process": {
+    "title": {
+      "fr": "Comment ça se passe",
+      "en": "How it works"
+    },
+    "steps": [
+      {
+        "id": "p1",
+        "title": {
+          "fr": "01. Me contacter",
+          "en": "01. Reach out"
+        },
+        "text": {
+          "fr": "Remplissez le formulaire en bas de page ou écrivez-moi directement sur Instagram. Parlez-moi de votre idée, même encore floue : je réponds vite.",
+          "en": "Fill in the form at the bottom of the page or DM me on Instagram. Tell me about your idea, even a rough one: I reply fast."
+        }
+      },
+      {
+        "id": "p2",
+        "title": {
+          "fr": "02. Échange",
+          "en": "02. First chat"
+        },
+        "text": {
+          "fr": "On discute de votre projet, vos objectifs et votre budget. Je vous propose un format et un devis clair.",
+          "en": "We talk about your project, goals and budget. I come back with a format and a clear quote."
+        }
+      },
+      {
+        "id": "p3",
+        "title": {
+          "fr": "03. Suivi de la prestation",
+          "en": "03. Project tracking"
+        },
+        "text": {
+          "fr": "Un espace Notion partagé est mis en place dès le départ : avancement du projet, étapes validées, prochaines échéances. Vous savez toujours où on en est, pour une communication fluide.",
+          "en": "A shared Notion space is set up from day one: project progress, approved steps, upcoming deadlines. You always know where we stand, for smooth communication."
+        }
+      },
+      {
+        "id": "p4",
+        "title": {
+          "fr": "04. Pré-production",
+          "en": "04. Pre-production"
+        },
+        "text": {
+          "fr": "Repérages, script, plan de tournage : tout est calé en amont pour un jour J sans surprise.",
+          "en": "Scouting, script, shooting plan: everything is locked in ahead of time for a smooth shoot day."
+        }
+      },
+      {
+        "id": "p5",
+        "title": {
+          "fr": "05. Tournage",
+          "en": "05. Shoot"
+        },
+        "text": {
+          "fr": "Captation sur place, cadrage soigné, matériel adapté au lieu et à l'ambiance de votre événement.",
+          "en": "On-site filming, careful framing, gear that matches the venue and the vibe of your event."
+        }
+      },
+      {
+        "id": "p6",
+        "title": {
+          "fr": "06. Livraison",
+          "en": "06. Delivery"
+        },
+        "text": {
+          "fr": "Montage, étalonnage, allers-retours ensemble, puis livraison dans tous les formats dont vous avez besoin.",
+          "en": "Editing, grading, feedback rounds together, then delivery in every format you need."
+        }
+      }
+    ]
+  },
+  "clients": {
+    "title": {
+      "fr": "Ils m'ont fait confiance",
+      "en": "They trusted me"
+    },
+    "items": [
+      {
+        "id": "k1",
+        "name": "Fuze III",
+        "views": "16,4 M vues / +300k abonnées",
+        "logo": "https://laiqo.github.io/laiqo-media/media/6be0adcb66b12d24dbc831f9.webp"
+      },
+      {
+        "id": "k2",
+        "name": "Camille LV",
+        "views": "133 K vues",
+        "logo": "https://laiqo.github.io/laiqo-media/media/92e0ceabf762d5a202e122fb.webp"
+      },
+      {
+        "id": "k3",
+        "name": "Fares Salvatore",
+        "views": "13 M vues",
+        "logo": "https://laiqo.github.io/laiqo-media/media/c213ff6ccdb060ca53c81e69.webp"
+      },
+      {
+        "id": "k4",
+        "name": "Gartin59",
+        "views": "300K vues",
+        "logo": "https://laiqo.github.io/laiqo-media/media/c6949b22a44e67593e514de6.jpg"
+      },
+      {
+        "id": "k5",
+        "name": "La Fabrique des Orateurs",
+        "views": "+10 Leads",
+        "logo": "https://laiqo.github.io/laiqo-media/media/5af28847d44d7f8690681bcd.webp"
+      },
+      {
+        "id": "k6",
+        "name": "CryptoDaily",
+        "views": "100 K vues",
+        "logo": "https://laiqo.github.io/laiqo-media/media/3fba5a2427cc1b05d8006335.webp"
+      },
+      {
+        "id": "k7",
+        "name": "Fuzay² ",
+        "views": "300 K vues",
+        "logo": "https://laiqo.github.io/laiqo-media/media/a3e9d760bb477d4def8b114e.webp"
+      },
+      {
+        "id": "k8",
+        "name": "Ibepds",
+        "views": "230 K vues",
+        "logo": "https://laiqo.github.io/laiqo-media/media/db4cdfa6b0196b8656569df4.webp"
+      }
+    ]
+  },
+  "contact": {
+    "kicker": {
+      "fr": "On se lance ?",
+      "en": "Let's do this"
+    },
+    "title": {
+      "fr": "Prêt à tourner ?",
+      "en": "Ready to roll?"
+    },
+    "text": {
+      "fr": "Parlez-moi de votre projet, événement, film de marque ou série de shorts, et je reviens vers vous rapidement.",
+      "en": "Tell me about your project, an event, a brand film or a series of shorts, and I'll get back to you quickly."
+    },
+    "formUrl": "",
+    "formPlaceholderTitle": {
+      "fr": "Emplacement du formulaire",
+      "en": "Form slot"
+    },
+    "formPlaceholderHint": {
+      "fr": "Colle l'URL d'intégration de ton formulaire dans les réglages du site et il apparaîtra ici",
+      "en": "Paste your form embed URL in the site settings and it will show up here"
+    },
+    "socials": {
+      "instagram": "theo.santc",
+      "linkedin": "Théo Santacroce",
+      "x": "laiqooo"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Théo"
+  }
+}
