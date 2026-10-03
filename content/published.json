@@ -588,9 +588,9 @@
       },
       {
         "id": "k2",
-        "name": "Camille LV",
+        "name": "Marc Simoncini",
         "views": "133 K vues",
-        "logo": "https://laiqo.github.io/laiqo-media/media/92e0ceabf762d5a202e122fb.webp"
+        "logo": "https://laiqo.github.io/laiqo-media/media/ca6357c7425db95f09bbf5c5.webp"
       },
       {
         "id": "k3",
@@ -644,6 +644,10 @@
       "en": "Tell me about your project, an event, a brand film or a series of shorts, and I'll get back to you quickly."
     },
     "formUrl": "https://form.typeform.com/to/WoKbFJO5",
+    "formButton": {
+      "fr": "Remplir le formulaire",
+      "en": "Fill in the form"
+    },
     "formPlaceholderTitle": {
       "fr": "Emplacement du formulaire",
       "en": "Form slot"
